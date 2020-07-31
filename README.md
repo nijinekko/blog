@@ -1,1 +1,1 @@
-# blog
+https://nijinekko.hatenablog.com/ のサンプルコードまとめ
